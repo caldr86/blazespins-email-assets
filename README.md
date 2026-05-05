@@ -1,4 +1,4 @@
-# Blaze Spins Email Assets
+# Blaze Spins Email Assets!
 
 This repository contains static image assets used in Blaze Spins marketing emails.
 Hosted via Cloudflare Pages at: https://assets.blazespinsmail.com
